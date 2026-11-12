@@ -10,6 +10,8 @@ Developer focused on building, learning, and improving.
 ### Contact
 - Email: hello@xunjra.com
 - GitHub: [@xunjra](https://github.com/xunjra)
+- X: [@xunjra](https://x.com/xunjra)
+- YouTube: [@xunjra](https://www.youtube.com/@xunjra)
 
 ---
 
