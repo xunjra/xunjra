@@ -1,16 +1,16 @@
-## Hi there 👋
+# ARJUN KHANAL
 
-<!--
-**xunjra/xunjra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Developer focused on building, learning, and improving.
 
-Here are some ideas to get you started:
+### About
+- Currently learning Rust
+- Interested in software development and technology
+- Tools: Git, GitHub, Zed
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact
+- Email: hello@xunjra.com
+- GitHub: [@xunjra](https://github.com/xunjra)
+
+---
+
+*Thanks for stopping by.*
