@@ -2,10 +2,6 @@
 
 Developer focused on building, learning, and improving.
 
-### About
-- Interested in software development and technology
-- Tools: Git, GitHub, Zed
-
 ### Contact
 - Email: hello@xunjra.com
 - GitHub: [@xunjra](https://github.com/xunjra)
