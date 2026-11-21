@@ -3,7 +3,6 @@
 Developer focused on building, learning, and improving.
 
 ### About
-- Currently learning Rust
 - Interested in software development and technology
 - Tools: Git, GitHub, Zed
 
